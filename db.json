@@ -1,0 +1,22 @@
+{
+  "subscribers": [
+    {
+      "nick": "chibi",
+      "months": 1,
+      "profileUrl": "https://i.pravatar.cc/150?u=chibi",
+      "description": "This is the description for chibi"
+    },
+    {
+      "nick": "ignathyme",
+      "months": 9,
+      "profileUrl": "https://i.pravatar.cc/150?u=ignathyme",
+      "description": "This is the description for ignathyme"
+    },
+    {
+      "nick": "cuchita",
+      "months": 3,
+      "profileUrl": "https://i.pravatar.cc/150?u=cuchita",
+      "description": "This is the description for cuchita"
+    }
+  ]
+}
